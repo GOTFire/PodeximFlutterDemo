@@ -1,6 +1,13 @@
 # pokedexcim
 
+
+
+![](pokemon.gif)
+
 Pekomon roket takımı
+
+
+
 
 ## Getting Started
 
